@@ -7,5 +7,5 @@
 ### Hello! 👋
 
 - 🌎 São Paulo / Brazil
-- 💼 Full-stack Developer at TOTVS
+- 💼 Senior Software Engineer at CI&T
 - 🎓 Data Base Administrator at FATEC Bauru
