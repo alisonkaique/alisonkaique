@@ -6,6 +6,6 @@
 
 ### Hello! 👋
 
-- 🌎 São Paulo / Brazil
-- 💼 Senior Software Engineer at CI&T
+- 🌎 Porto / Portugal
+- 💼 Senior Software Engineer at Capgemini Engineering
 - 🎓 Data Base Administrator at FATEC Bauru
