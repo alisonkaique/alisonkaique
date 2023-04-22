@@ -7,5 +7,5 @@
 ### Hello! 👋
 
 - 🌎 Porto / Portugal
-- 💼 Senior Software Engineer at Capgemini Engineering
+- 💼 Specialist Software Engineer at A.K.L.L. Sistemas
 - 🎓 Data Base Administrator at FATEC Bauru
