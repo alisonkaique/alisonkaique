@@ -6,6 +6,6 @@
 
 ### Hello! 👋
 
-- 🌎 Porto / Portugal
+- 🌎 Curitiba / Brazil
 - 💼 Specialist Software Engineer at A.K.L.L. Sistemas
 - 🎓 Data Base Administrator at FATEC Bauru
